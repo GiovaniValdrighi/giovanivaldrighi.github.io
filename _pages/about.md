@@ -19,8 +19,6 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I'm a first-year Ph.D. candidate in Computer Science at the Institute of Computing at the University of Campinas (IC - UNICAMP). I'm also currently finishing my Master's dissertation in Math Modelling at the School of Applied Math at FGV, to be presented in the next months. I hold a BSc degree in Applied Math from the same institution. In the last few years, I have been a researcher at the [Visual Data Science Lab], working on visualization techniques for spatiotemporal data. I also had the opportunity to be a visiting researcher in the VIDA Lab at NYU Tandon, working with deep learning techniques to infer socioeconomic indexes from remote sensing data.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+At UNICAMP, I'm a member of the Hub of Artificial Intelligence and Cognitive Architectures ([HIAAC](https://hiaac.unicamp.br/)), performing research in Trusthyworth AI, mainly in the area of fairness and explainability.
