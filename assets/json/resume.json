@@ -18,24 +18,42 @@
   },
   "work": [
     {
-      "name": "Hub of Artificial Intelligence and Cognitive Architectures, University of Campinas",
+      "name": "Hub of Artificial Intelligence and Cognitive Architectures (H.IAAC), UNICAMP",
       "position": "Researcher Assistant",
       "url": "https://hiaac.unicamp.br/",
       "startDate": "2023-08-01",
       "endDate": "",
-      "summary": "Researcher Assistant at the Hub of Artificial Intelligence and Cognitive Architectures, under the theme of AI for Finance. Working on the development of trustworth Machine Learning models.",
+      "summary": "Researcher assistant under the theme of AI for Finance, working on the development of trustworth Machine Learning models.",
+      "highlights": []
+    },
+    {
+      "name": "Visual Data Science Lab (VDS), FGV",
+      "position": "Researcher Assistant",
+      "url": "http://visualdslab.com/",
+      "startDate": "2020-08-01",
+      "endDate": "2023-08-01",
+      "summary": "Researcher assistant in the topic of visualization for spatiotemporal data.",
+      "highlights": []
+    },
+    {
+      "name": "Visualization Imaging and Data Analysis Center (VIDA), NYU",
+      "position": "Visiting Researcher",
+      "url": "https://vida.engineering.nyu.edu/",
+      "startDate": "2023-01-15",
+      "endDate": "2023-04-15",
+      "summary": "Visiting researcher in the topic of visualization for spatiotemporal data.",
       "highlights": []
     }
   ],
   "volunteer": [
     {
-      "organization": "People's Climate March",
-      "position": "Lead Organizer",
-      "url": "https://example.com",
-      "startDate": "2014-04-01",
-      "endDate": "2015-07-01",
-      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
+      "organization": "ACM FAccT",
+      "position": "Student Volunteer",
+      "url": "https://facctconference.org/2024/",
+      "startDate": "2024-06-03",
+      "endDate": "2024-06-06",
+      "summary": "",
+      "highlights": []
     }
   ],
   "education": [
