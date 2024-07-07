@@ -1,18 +1,18 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Giovani Valdrighi",
+    "label": "PhD Student",
     "image": "",
     "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
+    "phone": "",
     "url": "https://alshedivat.github.io/al-folio/",
     "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
+      "address": "",
+      "postalCode": "",
+      "city": "Campinas",
+      "countryCode": "BR",
+      "region": "São Paulo"
     },
     "profiles": [
       {
@@ -24,13 +24,13 @@
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
+      "name": "Institute of Computing, University of Campinas",
+      "position": "PhD Student in Machine Learning",
+      "url": "",
+      "startDate": "2023-08-01",
+      "endDate": "",
+      "summary": "PhD student in Machine Learning at the Institute of Computing, University of Campinas. Researching on Trustworthy Machine Learning topics of Fairness and Explainability.",
+      "highlights": ["Machine Learning"]
     }
   ],
   "volunteer": [
@@ -46,15 +46,37 @@
   ],
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "location": "Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
+      "institution": "Institute of Computing, Univeristy of Campinas",
+      "location": "Campinas, Brazil",
+      "url": "https://ic.unicamp.br/",
+      "area": "Machine Learning",
       "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
-      "score": "10",
-      "courses": ["Theory of Relativity"]
+      "startDate": "2024-08-01",
+      "endDate": "",
+      "score": "",
+      "courses": ["Machine Learning"]
+    },
+    {
+      "institution": "School of Applied Math, Getulio Vargas Foudation",
+      "location": "Rio de Janeiro, Brazil",
+      "url": "https://emap.fgv.br/",
+      "area": "Mathematical Modeling",
+      "studyType": "Master",
+      "startDate": "2022-03-01",
+      "endDate": "2024-06-01",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "School of Applied Math, Getulio Vargas Foudation",
+      "location": "Rio de Janeiro, Brazil",
+      "url": "https://emap.fgv.br/",
+      "area": "Applied Mathematics",
+      "studyType": "Bachelor",
+      "startDate": "2018-03-01",
+      "endDate": "2021-12-01",
+      "score": "",
+      "courses": []
     }
   ],
   "awards": [
