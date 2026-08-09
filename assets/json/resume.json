@@ -1,180 +1,345 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Giovani de Almeida Valdrighi",
+    "label": "PhD Student",
     "image": "",
-    "email": "einstein@example.com",
-    "phone": "(912) 123-4567",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "giovani.valdrighi@ic.unicamp.br",
+    "phone": "",
+    "url": "https://giovanivaldrighi.github.io/",
+    "summary": "Third-year Ph.D. candidate in Computer Science at the Universidade Estadual de Campinas, performing research in fairness, explainability, and trustworthy machine learning. MSc in Mathematical Modelling and BSc in Applied Mathematics, both at Getulio Vargas Foundation. Previously, performed research in visualization for spatiotemporal data, with published papers at high-impact conferences.",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
+      "address": "",
+      "postalCode": "",
+      "city": "Campinas",
+      "countryCode": "BR",
+      "region": "São Paulo"
     },
     "profiles": []
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "location": "Princeton University, NJ",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity", "Description 2."]
-    },
-    {
-      "name": "California Institute of Technology",
-      "position": "Visiting Professor",
-      "location": "Pasadena, California, US",
-      "startDate": "1933-01-01",
-      "endDate": "1933-01-01",
-      "summary": "",
-      "highlights": ["Description 1.", "Description 2."]
-    },
-    {
-      "name": "Kaiser Wilhelm Institute for Physics",
-      "position": "Director",
-      "location": "Berlin, Germany",
-      "startDate": "1917-01-01",
-      "endDate": "1933-01-01",
-      "summary": "",
+      "name": "Probabilistic Machine Learning Group, Saarland University",
+      "position": "Visiting Researcher",
+      "url": "https://machinelearning.uni-saarland.de/",
+      "startDate": "2026-07-01",
+      "endDate": "",
+      "summary": "Research in Performative Decision-making with Multiple Objectives.",
       "highlights": []
     },
     {
-      "name": "Karl-Ferdinand University",
-      "position": "Professor of Theoretical Physics",
-      "location": "Prague, Czechoslovakia",
-      "startDate": "1911-01-01",
-      "endDate": "1917-01-01",
-      "summary": "",
+      "name": "Recod.AI Lab, UNICAMP",
+      "position": "Researcher Assistant",
+      "url": "https://recod.ai/",
+      "startDate": "2023-08-01",
+      "endDate": "",
+      "summary": "Research in trustworthy machine learning, with a main focus in fairness and explainability.",
       "highlights": []
     },
     {
-      "name": "University of Zurich",
-      "position": "Associate Professor of Theoretical Physics",
-      "location": "Zurich, Switzerland",
-      "startDate": "1909-01-01",
-      "endDate": "1911-01-01",
-      "summary": "",
+      "name": "Hub of Artificial Intelligence and Cognitive Architectures (H.IAAC), UNICAMP",
+      "position": "Researcher Assistant",
+      "url": "https://hiaac.unicamp.br/",
+      "startDate": "2023-08-01",
+      "endDate": "2026-03-01",
+      "summary": "Researcher assistant under the theme of AI for Finance, working on the development of trustworthy Machine Learning models, specifically in fairness, explainability, and long-term fairness with incomplete information.",
+      "highlights": []
+    },
+    {
+      "name": "Visual Data Science Lab (VDS), FGV",
+      "position": "Researcher Assistant",
+      "url": "http://visualdslab.com/",
+      "startDate": "2020-08-01",
+      "endDate": "2024-05-01",
+      "summary": "Study and development of visualization techniques for spatiotemporal data. Applied machine learning methods for understanding and forecasting deforestation in Amazonia.",
+      "highlights": []
+    },
+    {
+      "name": "Visualization Imaging and Data Analysis Center (VIDA), NYU",
+      "position": "Visiting Researcher",
+      "url": "https://vida.engineering.nyu.edu/",
+      "startDate": "2023-01-15",
+      "endDate": "2023-04-15",
+      "summary": "Deep learning for predicting socioeconomic indices from remote sensing data.",
+      "highlights": []
+    },
+    {
+      "name": "Universidade Estadual de Campinas",
+      "position": "Teaching Assistant",
+      "startDate": "2025-02-01",
+      "endDate": "2026-07-01",
+      "summary": "Teaching assistant for Mathematical Foundations of Computing and Algorithm Analysis.",
+      "highlights": []
+    },
+    {
+      "name": "School of Applied Math, Fundação Getulio Vargas",
+      "position": "Teaching Assistant",
+      "startDate": "2019-02-01",
+      "endDate": "2023-06-01",
+      "summary": "Data Structures and Algorithms in Undergraduate and Master's courses. Data Visualization in Ph.D course. Databases in the business education program.",
+      "highlights": []
+    },
+    {
+      "name": "PICME/CNPq",
+      "position": "Undergraduate Researcher",
+      "url": "",
+      "startDate": "2018-08-01",
+      "endDate": "2020-07-01",
+      "summary": "Study of the relation between socioeconomic indexes and the results of students at ENEM. Research in the connection between causal inference techniques and machine learning methods.",
       "highlights": []
     }
   ],
   "volunteer": [
     {
-      "organization": "People's Climate March",
-      "location": "Zurich, Switzerland",
-      "position": "Lead Organizer",
-      "startDate": "2014-04-01",
-      "endDate": "2015-07-01",
-      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
+      "organization": "Workshop for Thesis and Dissertations (WTD) 2025",
+      "position": "Organization Committee",
+      "startDate": "2025-11-18",
+      "endDate": "2025-11-19",
+      "summary": "",
+      "highlights": []
+    },
+    {
+      "organization": "IV H.IAAC Workshop",
+      "position": "Organization Committee",
+      "startDate": "2026-03-23",
+      "endDate": "2026-03-25",
+      "summary": "",
+      "highlights": []
+    },
+    {
+      "organization": "III H.IAAC Workshop",
+      "position": "Organization Committee",
+      "startDate": "2025-05-06",
+      "endDate": "2025-05-07",
+      "summary": "",
+      "highlights": []
+    },
+    {
+      "organization": "ACM FAccT 2025",
+      "position": "Student Volunteer",
+      "url": "https://facctconference.org/2025/",
+      "startDate": "2025-06-23",
+      "endDate": "2025-06-26",
+      "summary": "",
+      "highlights": []
+    },
+    {
+      "organization": "ACM FAccT 2024",
+      "position": "Student Volunteer",
+      "url": "https://facctconference.org/2024/",
+      "startDate": "2024-06-03",
+      "endDate": "2024-06-06",
+      "summary": "",
+      "highlights": []
+    },
+    {
+      "organization": "UNICAMP DETIC \"Perspectivas da IA Generativa\"",
+      "position": "Volunteer",
+      "url": "https://www.detic.unicamp.br/",
+      "startDate": "2024-11-28",
+      "endDate": "2024-11-28",
+      "summary": "",
+      "highlights": []
     }
   ],
   "education": [
     {
-      "institution": "University of Zurich",
-      "location": "Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Physics",
+      "institution": "Universidade Estadual de Campinas",
+      "location": "Campinas, Brazil",
+      "url": "https://ic.unicamp.br/",
+      "area": "Computer Science",
       "studyType": "PhD",
-      "startDate": "1900-01-01",
-      "endDate": "1905-01-01",
-      "score": "",
-      "courses": ["Theory of Relativity"],
-      "highlights": ["Description 1.", "Description 2."]
+      "startDate": "2023-08-01",
+      "endDate": "",
+      "score": "GPA: 4.0/4.0",
+      "courses": []
     },
     {
-      "institution": "Eidgenössische Technische Hochschule",
-      "location": "Zurich, Switzerland",
-      "area": "Physics",
-      "studyType": "Federal teaching diploma",
-      "startDate": "1896-01-01",
-      "endDate": "1900-01-01",
-      "score": "",
-      "courses": [],
-      "highlights": ["Description 1.", "Description 2."]
+      "institution": "School of Applied Math, Getulio Vargas Foundation",
+      "location": "Rio de Janeiro, Brazil",
+      "url": "https://emap.fgv.br/",
+      "area": "Mathematical Modeling",
+      "studyType": "MSc",
+      "startDate": "2022-03-01",
+      "endDate": "2024-06-01",
+      "score": "Median: A",
+      "courses": []
+    },
+    {
+      "institution": "School of Applied Math, Getulio Vargas Foundation",
+      "location": "Rio de Janeiro, Brazil",
+      "url": "https://emap.fgv.br/",
+      "area": "Applied Mathematics",
+      "studyType": "BSc",
+      "startDate": "2018-03-01",
+      "endDate": "2021-12-01",
+      "score": "GPA: 9.2/10.0",
+      "courses": []
     }
   ],
   "awards": [
     {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
-    },
-    {
-      "title": "Max Planck Medal",
-      "date": "2029-01-01",
-      "awarder": "German Physical Society",
+      "title": "Registration and accomodation grant",
+      "date": "2026-07-06",
+      "awarder": "ICML 2026",
+      "url": "",
       "summary": ""
-    }
-  ],
-  "certificates": [
-    {
-      "name": "Machine Learning",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "icon": "fa-solid fa-location-dot"
     },
     {
-      "name": "Quantum Computing",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "icon": "fa-solid fa-tag"
+      "title": "Registration and travel grant",
+      "date": "2026-04-01",
+      "awarder": "ICLR 2026",
+      "url": "",
+      "summary": ""
     },
     {
-      "name": "Quantum Information",
+      "title": "First place team at E2LM Competition",
+      "date": "2025-12-01",
+      "awarder": "Neurips Competitions 2025",
+      "url": "",
+      "summary": ""
+    },
+    {
+      "title": "Registration and travel grant, volunteer student",
+      "date": "2025-06-01",
+      "awarder": "FAccT 2025",
+      "url": "",
+      "summary": ""
+    },
+    {
+      "title": "Registration grant",
+      "date": "2024-12-01",
+      "awarder": "Algorithmic Fairness through the Lens of Metrics and Evaluation Workshop",
+      "url": "",
+      "summary": ""
+    },
+    {
+      "title": "Registration and travel grant, volunteer student",
+      "date": "2024-06-01",
+      "awarder": "FAccT 2024",
+      "url": "",
+      "summary": ""
+    },
+    {
+      "title": "Registration and travel grant",
+      "date": "2024-02-01",
+      "awarder": "TropProbAI",
+      "url": "",
+      "summary": ""
+    },
+    {
+      "title": "PhD Scholarship Holder",
+      "date": "2023-08-01",
+      "awarder": "FUNCAMP",
+      "url": "",
+      "summary": ""
+    },
+    {
+      "title": "Scholarship Holder (PROSUP)",
+      "date": "2022-01-01",
+      "awarder": "CAPES",
+      "url": "",
+      "summary": "Scholarship (tuition fee) holder in the Graduate Support Program for Private Education Institutions (PROSUP)."
+    },
+    {
+      "title": "MSc Scholarship Holder",
+      "date": "2022-01-01",
+      "awarder": "School of Applied Math (EMAP - FGV)",
+      "url": "",
+      "summary": ""
+    },
+    {
+      "title": "BSc Scholarship Holder",
       "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "icon": "fa-solid fa-envelope"
+      "awarder": "CDMC - FGV",
+      "url": "",
+      "summary": "Scholarship holder for the Center for the Development of Mathematics and Sciences (CDMC) of FGV. Selected due to performance at OBMEP."
+    },
+    {
+      "title": "Brazilian Public School Mathematics Olympiad (OBMEP)",
+      "date": "2011-01-01",
+      "awarder": "National Institute of Pure and Applied Mathematics (IMPA)",
+      "url": "",
+      "summary": "Awarded with one gold, four silver and two bronze medals during the years of 2011 to 2017."
+    },
+    {
+      "title": "Brazilian Astronomy and Astronautics Olympiad (OBA)",
+      "date": "2014-01-01",
+      "awarder": "Brazilian Society of Astronomy (SAB)",
+      "url": "",
+      "summary": "Participation with a bronze medal."
     }
   ],
+  "certificates": [],
   "publications": [
     {
-      "name": "Zur Elektrodynamik bewegter Körper",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-06-30",
-      "url": "https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies",
-      "summary": "It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source."
+      "name": "Long-term Fairness with Selective Labels",
+      "publisher": "Algorithmic Fairness Across Alignment Procedures and Agentic Systems Workshop on ICLR",
+      "releaseDate": "2026-04-01",
+      "url": "",
+      "summary": ""
     },
     {
-      "name": "Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-03-18",
-      "url": "https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt",
-      "summary": "In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921."
+      "name": "Navigating the Rashomon Set: The Impact of Score Distributions and Decision Thresholds on Model Agreement",
+      "publisher": "Algorithmic Fairness Across Alignment Procedures and Agentic Systems Workshop on ICLR",
+      "releaseDate": "2026-04-01",
+      "url": "",
+      "summary": ""
     },
     {
-      "name": "Die Grundlage der allgemeinen Relativitätstheorie",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1916-03-20",
-      "url": "https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie",
-      "summary": "The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914)."
+      "name": "Best Practices for Responsible Machine Learning in Credit Scoring",
+      "publisher": "Neural Computing and Applications",
+      "releaseDate": "2025-08-01",
+      "url": "",
+      "summary": ""
+    },
+    {
+      "name": "M²FGB: A Min-Max Gradient Boosting Framework for Subgroup Fairness",
+      "publisher": "ACM Conference on Fairness, Accountability, and Transparency",
+      "releaseDate": "2025-06-01",
+      "url": "",
+      "summary": "Also presented at the Algorithmic Fairness through the Lens of Metrics and Evaluation Workshop on Neurips 2024."
+    },
+    {
+      "name": "Granularity at Scale: Estimating Neighborhood Socioeconomic Indicators from High-Resolution Orthographic Imagery and Hybrid Learning",
+      "publisher": "IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing",
+      "releaseDate": "2024-02-01",
+      "url": "",
+      "summary": ""
+    },
+    {
+      "name": "MoReVis: A Visual Summary for Spatiotemporal Moving Regions",
+      "publisher": "IEEE Transactions on Visualization and Computer Graphics",
+      "releaseDate": "2023-03-01",
+      "url": "",
+      "summary": ""
     }
   ],
   "skills": [
     {
-      "name": "Physics",
+      "name": "Mathematics",
       "level": "Master",
       "icon": "fa-solid fa-hashtag",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "Mathematical Modeling",
+        "Optimization",
+        "Probability"
+      ]
+    },
+    {
+      "name": "Programming Languages",
+      "level": "Master",
+      "icon": "fa-brands fa-python",
+      "keywords": [
+        "Python",
+        "C++",
+        "JavaScript"
       ]
     }
   ],
   "languages": [
     {
-      "language": "German",
-      "fluency": "Native speaker",
+      "language": "Portuguese",
+      "fluency": "Native language",
       "icon": ""
     },
     {
@@ -183,39 +348,7 @@
       "icon": ""
     }
   ],
-  "interests": [
-    {
-      "name": "Physics",
-      "icon": "fa-solid fa-tag",
-      "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
-      ]
-    }
-  ],
-  "references": [
-    {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-laptop",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit."
-    },
-    {
-      "name": "Professor Jane Smith",
-      "icon": "fa-solid fa-thumbtack",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit."
-    }
-  ],
-  "projects": [
-    {
-      "name": "Quantum Computing",
-      "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
-      "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
-      "startDate": "2018-01-01",
-      "endDate": "2018-01-01"
-    }
-  ]
+  "interests": [],
+  "references": [],
+  "projects": []
 }
