@@ -7,11 +7,9 @@
     "url": "https://giovanivaldrighi.github.io/",
     "summary": "Third-year Ph.D. candidate in Computer Science at the Universidade Estadual de Campinas, performing research in fairness, explainability, and trustworthy machine learning. MSc in Mathematical Modelling and BSc in Applied Mathematics, both at Getulio Vargas Foundation. Previously, performed research in visualization for spatiotemporal data, with published papers at high-impact conferences.",
     "location": {
-      "address": "Campinas, São Paulo",
-      "postalCode": "",
-      "city": "",
-      "countryCode": "",
-      "region": ""
+      "city": "Campinas",
+      "countryCode": "BR",
+      "region": "São Paulo"
     },
     "profiles": []
   },
