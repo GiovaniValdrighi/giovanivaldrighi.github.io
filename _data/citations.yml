@@ -1,16 +1,16 @@
 metadata:
-  last_updated: '2026-08-10'
+  last_updated: '2026-08-19'
 papers:
   iQXEldcAAAAJ:2osOgNQ5qMEC:
     citations: 2
     title: 'Granularity at Scale: Estimating Neighborhood Socioeconomic Indicators From High-Resolution Orthographic Imagery and Hybrid Learning'
     year: '2024'
   iQXEldcAAAAJ:IjCSPb-OGe4C:
-    citations: 0
+    citations: 1
     title: "M\xB2FGB: A Min-Max Gradient Boosting Framework for Subgroup Fairness"
     year: '2025'
   iQXEldcAAAAJ:UeHWp8X0CEIC:
-    citations: 19
+    citations: 20
     title: Best practices for responsible machine learning in credit scoring
     year: '2025'
   iQXEldcAAAAJ:W7OEmFMy1HYC:
