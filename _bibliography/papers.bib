@@ -1,11 +1,43 @@
+---
+---
+
+Buttons:
+- `abbr`: Adds an abbreviation to the left of the entry. You can add links to these by creating a venue.yaml-file in the \_data folder and adding entries that match.
+- `abstract`: Adds an "Abs" button that expands a hidden text field when clicked to show the abstract text
+- `altmetric`: Adds an [Altmetric](https://www.altmetric.com/) badge (Note: if DOI is provided just use `true`, otherwise only add the altmetric identifier here - the link is generated automatically)
+- `annotation`: Adds a popover info message to the end of the author list that can potentially be used to clarify superscripts. HTML is allowed.
+- `arxiv`: Adds a link to the Arxiv website (Note: only add the arxiv identifier here - the link is generated automatically)
+- `bibtex_show`: Adds a "Bib" button that expands a hidden text field with the full bibliography entry
+- `blog`: Adds a "Blog" button redirecting to the specified link
+- `code`: Adds a "Code" button redirecting to the specified link
+- `dimensions`: Adds a [Dimensions](https://www.dimensions.ai/) badge (Note: if DOI or PMID is provided just use `true`, otherwise only add the Dimensions' identifier here - the link is generated automatically)
+- `html`: Inserts an "HTML" button redirecting to the user-specified link
+- `pdf`: Adds a "PDF" button redirecting to a specified file (if a full link is not specified, the file will be assumed to be placed in the /assets/pdf/ directory)
+- `poster`: Adds a "Poster" button redirecting to a specified file (if a full link is not specified, the file will be assumed to be placed in the /assets/pdf/ directory)
+- `slides`: Adds a "Slides" button redirecting to a specified file (if a full link is not specified, the file will be assumed to be placed in the /assets/pdf/ directory)
+- `supp`: Adds a "Supp" button to a specified file (if a full link is not specified, the file will be assumed to be placed in the /assets/pdf/ directory)
+- `video`: Adds a "Video" button redirecting to a specified file (if a full link is not specified, the file will be assumed to be placed in the /assets/video/ directory)
+- `website`: Adds a "Website" button redirecting to the specified link
+
+Extra:
+- `preview`
+- `google_scholar_id`
+- `additional_info`
+- `award`
+- `award_name`
+- `eprint`
+- `selected`
+
 @article{valdrighi2026performative,
   title={Performative Prediction with Selective Labels},
   author={Valdrighi, Giovani and Valera, Isabel and Raimundo, Marcos Medeiros},
-  journal={arXiv preprint arXiv:2610.08272},
+  journal={Advances in Neural Information Processing Systems},
   year={2026},
   selected={true},
   bibtex_show={true},
-  slides={/assets/html/perf_sel_slides.html},
+  slides={https://giovanivaldrighi.github.io/assets/html/perf_sel_slides.html},
+  code={https://github.com/recod-ai/perf_selective},
+  pdf={https://arxiv.org/abs/2610.08272},
   abbr={NeurIPS 2026},
 }
 
